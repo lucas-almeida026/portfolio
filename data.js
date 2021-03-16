@@ -54,6 +54,12 @@ const data = {
       description: 'É uma plataforma que conecta pessoas e instituições por meio de uma comunidade e incentiva a execução de projetos na área de comuniação.',
       technology: ['Angular', 'Node'],
       link: 'https://do.community/'
+    },
+    {
+      name: 'Form Validator La',
+      description: 'Um pacote npm que permite a verificação de formulários react.js',
+      technology: ['Javascript'],
+      link: 'https://www.npmjs.com/package/form-validator-la'
     }
   ],
   otherCourses: [

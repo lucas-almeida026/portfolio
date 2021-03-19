@@ -60,6 +60,12 @@ const data = {
       description: 'Um pacote npm que permite a verificação de formulários react.js',
       technology: ['Javascript'],
       link: 'https://www.npmjs.com/package/form-validator-la'
+    },
+    {
+      name: 'FAMB - Flaide Angular Modal Boxes',
+      description: 'Um pacote de caixa modais para angular, inclui: alert box, confirm box, input box, progress box.',
+      technology: ['Angular', 'Typescript'],
+      link: 'https://www.npmjs.com/package/famb'
     }
   ],
   otherCourses: [
